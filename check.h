@@ -1,0 +1,1 @@
+int check (int i, int j, int tab[32][32]);
